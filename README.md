@@ -1,6 +1,7 @@
 # dotfiles
-These are some of the configurations I use. So far I have cleaned up my vim config, so that is the only thing here atm. But will update on tmux, git and other configs soon.
-The configuration file is heavily commented, so that anyone new can pick and choose what they like out of it easily. 
+These are some of the configurations I use that I have put together. So far I have cleaned up my vim config, so that is the only thing here atm. But I will soon update on tmux, git and other configs.
+
+*Warning!* The configuration file is heavily commented and not very pleasing to the eye but I figured this would be important for any new vim users looking for configs so they can choose what they like out of it easily. 
 
 ## Workflow view
 ![vim](https://user-images.githubusercontent.com/6232733/34429931-da4d5bac-ec2c-11e7-8051-56c25df707d6.gif)
@@ -36,3 +37,6 @@ Here I will note down some small maybe obscure VIMtips I have come across that h
 - `Ctrl-V` in insert mode followed by u to type four hexadecimal digits and get Unicode chars &#F4A9
 - Vim spellang: do `:setlocal spell` to switch on spell check, it will highlight all incorrectly spelled words. Go under a word and do `z=` to see suggested words.
   `]s` to move to next misspelled word after cursor.  
+  
+  ### Credits
+  Credits for a lot of the configs go to the incredible open source community vim has &#10084; 	&#10084;
