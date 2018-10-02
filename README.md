@@ -4,10 +4,7 @@ These are some of the configurations I use that I have put together. So far I ha
 *Warning!* The configuration file is heavily commented and not very pleasing to the eye but I figured this would be important for any new vim users looking for configs so they can choose what they like out of it easily. 
 
 ## Workflow view
-![vim](https://user-images.githubusercontent.com/6232733/34429931-da4d5bac-ec2c-11e7-8051-56c25df707d6.gif)
-
-Closer look at VIM
-![vim2](https://user-images.githubusercontent.com/6232733/34430103-2dd03aa4-ec2f-11e7-9351-edb28f1e82d4.gif)
+![vim](https://user-images.githubusercontent.com/6232733/46383016-2d1e3980-c67c-11e8-9170-20164763ce09.gif)
 
 
 ### How to use this for your vim config:
