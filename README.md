@@ -6,6 +6,38 @@ These are some of the configurations I use that I have put together. So far I ha
 ## Workflow view
 ![vim](https://user-images.githubusercontent.com/6232733/46383016-2d1e3980-c67c-11e8-9170-20164763ce09.gif)
 
+## Plugins
+Here are the list of plugins I use:
+- https://github.com/vim-ripgrep
+- https://github.com/airblade/vim-gitgutter
+- https://github.com/altercation/vim-colors-solarized
+- https://github.com/easymotion/vim-easymotion
+- https://github.com/tpope/vim-endwise
+- https://github.com/tpope/vim-fugitive
+- https://github.com/tpope/vim-sensible
+- https://github.com/tpope/vim-surround
+- https://github.com/majutsushi/tagbar
+- https://github.com/vim-airline/vim-airline
+- https://github.com/vim-airline/vim-airline-themes
+- https://github.com/vim-syntastic/syntastic
+- https://github.com/rhysd/vim-clang-format
+- https://github.com/scrooloose/nerdtree
+- https://github.com/elzr/vim-json
+- https://github.com/vim-ruby/vim-ruby
+- https://github.com/fatih/vim-go
+- https://github.com/rking/ag.vim
+- https://github.com/scrooloose/nerdcommenter
+- https://github.com/Yggdroot/indentLine
+- https://github.com/mhinz/vim-startify
+- https://github.com/craigemery/vim-autotag
+- https://github.com/qpkorr/vim-bufkill
+- https://github.com/junegunn/fzf
+- https://github.com/junegunn/fzf.vim
+- https://github.com/airblade/vim-rooter
+- https://github.com/mattn/emmet-vim
+- https://github.com/morhetz/gruvbox
+- https://github.com/leafgarland/typescript-vim
+
 
 ### How to use this for your vim config:
 - First test it out by cloning and running a file using this config by doing `vim -u test_vimrc`
@@ -35,5 +67,11 @@ Here I will note down some small maybe obscure VIMtips I have come across that h
 - Vim spellang: do `:setlocal spell` to switch on spell check, it will highlight all incorrectly spelled words. Go under a word and do `z=` to see suggested words.
   `]s` to move to next misspelled word after cursor.  
   
-  ### Credits
-  Credits for a lot of the configs go to the incredible open source community vim has &#10084; 	&#10084;
+## Tutorials and other resources
+If you are getting started with VIM, here are some great resources:
+- https://learnxinyminutes.com/docs/vim/
+- In your terminal: `vimtutor`
+- https://www.youtube.com/watch?v=wlR5gYd6um0
+
+### Credits
+Credits for a lot of the configs go to the incredible open source community vim has &#10084; 	&#10084;
